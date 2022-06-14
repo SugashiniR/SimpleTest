@@ -1,4 +1,4 @@
- <dependencies>
+  <dependencies>
   <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
@@ -6,8 +6,8 @@
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
-    <version>5.2.2</version>
+    <artifactId>poi-ooxml</artifactId>
+    <version>3.11</version>
 </dependency>
 <dependency>
   <groupId>io.github.bonigarcia</groupId>
@@ -15,3 +15,4 @@
   <version>3.8.1</version>
 </dependency>
  </dependencies>
+ 
